@@ -10,5 +10,4 @@ Run the main.lua script to implement the Raytracer. The program will the user to
 If you say no, then you will get the ability to set up the camera look-at point, field of view angle, and the position of a white light light source the scene. After setting up the camera the script will then prompt you for more input commands. overall I implemented 4 functions: draw, sphere, clear, and exit
 
 this is the output of the preset scene
-![alt text](/main/screenshot.png)
-
+![3dscene](static.png)
